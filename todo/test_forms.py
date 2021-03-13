@@ -18,3 +18,4 @@ class TestItemForm(TestCase):
         form = ItemForm()
         self.assertEqual(form.Meta.fields,['name', 'done'])
     
+    
