@@ -27,7 +27,7 @@ SECRET_KEY = '#fve-rdufd5-fm&8(mrv4j(y3g$!ugv(f31=o!3rklh13(t!qq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ci-fst-hello-django.herokuapp.com']
 
 
 # Application definition
